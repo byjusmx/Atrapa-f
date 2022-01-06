@@ -14,7 +14,7 @@ class Form{
     }
     display() {
         this.title.html("ATRAPA FRUTAS");
-        this.title.position(350, 50);
+        this.title.position(350, 150);
         this.title.style('font-size', '70px');
         this.title.style('color', 'skyblue');
         this.input.position(550,400);
